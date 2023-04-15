@@ -1,2 +1,2 @@
 # Flight-Reservation-Website
-Flight Reservation project that I am currently working on for my Web Programming course
+Project that I am currently working on for my Web Programming course, starting from back-end with FlightPHP and towards front-end
